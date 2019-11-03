@@ -1,9 +1,15 @@
 {
-  "pages": ["pages/home/main", "pages/category/main", "pages/cart/main", "pages/me/main"],
+  "pages": [
+    "pages/home/main",
+    "pages/category/main",
+    "pages/cart/main",
+    "pages/me/main",
+    "pages/list/main"
+  ],
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#eb4450",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "",
     "navigationBarTextStyle": "white"
   },
   "tabBar": {
